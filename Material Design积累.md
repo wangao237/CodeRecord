@@ -1,12 +1,11 @@
 # 最全面的 Material Design 学习资料
 
->本人目前正在找工作，想了解我的详细情况请移步到我的 [网页版简历](https://luosunce.github.io/resume/) ，希望能得到各位的推荐，谢谢！
+
 
 关于 Material Design 在这里我就不在多做介绍了，想必做Android开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的APP遵循 Material Design 的设计规范来进
 行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
-这个项目我会在 Github：https://github.com/Luosunce/material-design-data 上不定期更新，欢迎 star、follow.
 
->感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
+
 
 ## Material Design 使用教程
 
